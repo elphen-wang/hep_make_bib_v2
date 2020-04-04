@@ -16,7 +16,7 @@ If you want change another webdriver, please you swicth it in script via annotat
 Default model is headless.
 
 # Instruction
-Same with [hep_make_bib](https://github.com/ElonSteveWang/hep_make_bib). Here is an example of how to use it.
+It's used the same way as [hep_make_bib](https://github.com/ElonSteveWang/hep_make_bib). Here is an example of how to use it.
 
 ```
 # cd /some/place 
