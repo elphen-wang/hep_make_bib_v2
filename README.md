@@ -1,5 +1,5 @@
 # hep_make_bib_v2
-Making bib for latex/tex based on the version of [INSPIRE-HEP](https://inspirehep.net/) and [selenium](https://www.selenium.dev/)/[pyppeteer](https://github.com/miyakogi/pyppeteer)/[pyppeteer2](https://github.com/pyppeteer/pyppeteer2).
+Making bibs for latex/tex based on the version of [INSPIRE-HEP](https://inspirehep.net/) and [selenium](https://www.selenium.dev/)/[pyppeteer](https://github.com/miyakogi/pyppeteer)/[pyppeteer2](https://github.com/pyppeteer/pyppeteer2).
 
 # Introduction
 Due to the [old INSPIRE](https://old.inspirehep.net) will be phased out by June 2020, the first version of [hep_make_bib](https://github.com/ElonSteveWang/hep_make_bib) have to upgrade to adapt new INSPIRE-HEP. 
