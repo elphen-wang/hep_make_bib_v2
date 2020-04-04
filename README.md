@@ -74,6 +74,6 @@ For now, you can copy the corresponding bib into your document. As you may have 
 
 
 # License
-[hep_make_bib_v2](https://github.com/ElonSteveWang/hep_make_bib_v2) is available under the terms of the GNU General Public License, version 2.
+[hep_make_bib_v2](https://github.com/ElonSteveWang/hep_make_bib_v2) is available under the terms of the [GNU General Public License, version 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
 
 This project can also be used on other websites with a few changes. If someone based on this work for the second development, please indicate the source, thank you!
